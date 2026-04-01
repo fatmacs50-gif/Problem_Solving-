@@ -9,5 +9,7 @@
 - [0002- Add Two Numbers](./0002-add-two-numbers.cpp)
 -  [problem_leetcode] (https://leetcode.com/problems/add-two-numbers )
 - [0003-Longest Substring Without Repeating](./0003-longest-substring-without-repeating-characters.cpp)
-- [problem_leetcode] (https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [problem_leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters)
+- [0007-Reverse Integer](./0007-reverse-integer)
+- [problem_leetcode](https://leetcode.com/problems/reverse-integer)
  
