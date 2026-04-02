@@ -12,4 +12,6 @@
 - [problem_leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters)
 - [0007-Reverse Integer](./0007-reverse-integer)
 - [problem_leetcode](https://leetcode.com/problems/reverse-integer)
+- [0009-Palindrome-Number](./0009-palindrome-number)
+- [problem_leetcode](https://leetcode.com/problems/palindrome-number)
  
